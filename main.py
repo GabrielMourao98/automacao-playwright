@@ -44,3 +44,5 @@ with sync_playwright() as p:
     print(categoria)
     print(sub1)
     print(sub2)
+
+    # 1 commit
